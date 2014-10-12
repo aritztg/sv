@@ -33,4 +33,7 @@ Credits
 
 Install
 --
-    $ sudo pip install git+https://github.com/aritztg/svc.git
+Using pip
+    $ sudo pip install svc
+Using easy_install
+    $ sudo easy_install svc
