@@ -1,7 +1,7 @@
 svc
 ==
 
-Spreadsheet viewer and converter
+Spreadsheet Viewer and Converter
 --
 
 Sometimes you are working in your terminal and suddenly... you should check quickly the contents from an excel file.
@@ -11,9 +11,9 @@ SVC outputs xls/x data into a tsv, so you can operate with these files as always
 
 Some example uses:
 
-    $ sv file.xlsx | head
+    $ svc file.xlsx | head
     
-    $ cat file.xlsx | sv | cut -f2 | sort | uniq -c | sort -rn | head
+    $ cat file.xlsx | svc | cut -f2 | sort | uniq -c | sort -rn | head
 
 
 Updates
