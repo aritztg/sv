@@ -7,5 +7,6 @@ setup(name="SVC",
       author_email="aritztg at gmail",
       url="https://github.com/aritztg/svc",
       license="GPL",
-      scripts=["svc"]
+      scripts=["svc"],
+      install_requires = ["xlrd>=0.9.3"]
 )
