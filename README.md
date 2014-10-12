@@ -34,6 +34,9 @@ Credits
 Install
 --
 Using pip
+
     $ sudo pip install svc
+    
 Using easy_install
+
     $ sudo easy_install svc
