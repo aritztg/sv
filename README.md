@@ -3,6 +3,9 @@ sv
 
 Spreadsheet viewer
 
+Works well with both python2 and python3.
+
+
 Some uses:
 
 $ sv file.xlsx | head
