@@ -30,3 +30,7 @@ Requeriments
 Credits
 --
 * Aritz Tusell (atusell.com / aritztg(at)gmail(dot)com)
+
+Install
+--
+    $ sudo pip install git+https://github.com/aritztg/svc.git
