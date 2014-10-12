@@ -26,3 +26,7 @@ Requeriments
 --
 * You should have installed python (2 or 3) in your system.
 * SVC uses the wonderful xlrd library.
+
+Credits
+--
+* Aritz Tusell (atusell.com / aritztg(at)gmail(dot)com)
